@@ -15,16 +15,16 @@ services:
         # value: mysql
         sync: false
       - key: DB_HOST
-        # value: bclmw9nb9vww.ap-southeast-2.psdb.cloud
+        # value: xxx
         sync: false
       - key: DB_PORT
         # value: 3306
         sync: false
       - key: DB_USER
-        # value: phy4wbvf2vj4
+        # value: xxx
         sync: false
       - key: DB_PASS
-        # value: pscale_pw_tdxO88BHManjpAPYtSOjQQcYcUF7ts07N7QTXO1LFLA
+        # value: xxx
         sync: false
       - key: DB_NAME
         # value: db_name
